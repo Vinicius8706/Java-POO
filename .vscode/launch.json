@@ -1,0 +1,77 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch execicio03",
+      "request": "launch",
+      "mainClass": "src.execicio03",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercicio01",
+      "request": "launch",
+      "mainClass": "src.exercicio01",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercicio04",
+      "request": "launch",
+      "mainClass": "src.exercicio04",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercicio05",
+      "request": "launch",
+      "mainClass": "src.exercicio05",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercicio06",
+      "request": "launch",
+      "mainClass": "src.exercicio06",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercicio01(1)",
+      "request": "launch",
+      "mainClass": "structure.exercicio01",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercicio02",
+      "request": "launch",
+      "mainClass": "structure.exercicio02",
+      "projectName": "Java-POO_b0d2c03e"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercicio03",
+      "request": "launch",
+      "mainClass": "structure.exercicio03",
+      "projectName": "Java-POO_b0d2c03e"
+    }
+  ]
+}
